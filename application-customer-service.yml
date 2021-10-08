@@ -1,2 +1,3 @@
-username-customer: customer@username
-password-customer: customer@passsword
+customer:
+  username: customer@username
+  password: customer@passsword
