@@ -1,11 +1,9 @@
-application:
-  username: application@username
-  password: application@passsword
+username:
+  application: application@username
+  customer: customer@username
+  billing: billing@username
 
-customer:
-  username: customer@username
-  password: customer@passsword
-
-billing:
-  username: billing@username
-  password: billing@passsword
+password:
+  application: application@passsword
+  customer: customer@passsword
+  billing: billing@passsword
