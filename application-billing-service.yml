@@ -1,2 +1,3 @@
-username-billing: billing@username
-password-billing: billing@passsword
+billing:
+  username: billing@username
+  password: billing@passsword

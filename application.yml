@@ -1,2 +1,3 @@
-username: application@username
-password: application@passsword
+application:
+  username: application@username
+  password: application@passsword
